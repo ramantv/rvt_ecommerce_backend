@@ -12,7 +12,7 @@
   - [Developer(s)](#developers)
 
 ## General info
-The application provides the back-end database functionality for an e-commerce website. It allows the user to create, read, update, or delete products, categories, and tags. This program would best be used with a front-end for an ecommerce website. This is using Object Relational Mapping (ORM).
+The application provides the back-end database functionality for an e-commerce website. It allows the user to create, read, update, or delete products, categories, and tags. This app uses Object Relational Mapping (ORM) to map Javascript objects to Database models. 
 
 ## User Story
 - GIVEN a functional Express.js API
@@ -31,7 +31,7 @@ The application provides the back-end database functionality for an e-commerce w
 ![E-Commerce Backend Screenshot](./images/rvt_ecommerce_backend_get_categories.png)
 
 ## Video Walkthrough 
-[Raman TV -- Ecommerce Walkthrough](https://youtu.be/3FmHxLDORMg )
+[Raman TV -- Ecommerce Walkthrough](https://youtu.be/iYod-u5vs6U )
 
 ## Setup
 * Clone GitHub repository (https://github.com/ramantv/rvt_ecommerce_backend)
