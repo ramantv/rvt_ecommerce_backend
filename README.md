@@ -2,8 +2,6 @@
 > This application organizes products by category with added product tags!
 
 ## Table of contents
-- [RVT E-Commerce Backend](#rvt-e-commerce-backend)
-  - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [User Story](#user-story)
   - [Screenshot](#screenshot)
@@ -30,17 +28,17 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 
 ## Screenshot
-![E-Commerce Backend Screenshot](./images/rvt_employee_tracker_main.png)
+![E-Commerce Backend Screenshot](./images/rvt_ecommerce_backend_get_categories.png)
 
 ## Video Walkthrough 
-[Raman TV -- Ecommerce Walkthrough](https://www.youtube.com/watch?v=bb4UYMW24zc)
+[Raman TV -- Ecommerce Walkthrough](https://youtu.be/3FmHxLDORMg )
 
 ## Setup
 * Clone GitHub repository (https://github.com/ramantv/rvt_ecommerce_backend)
 * run these commands in order:
-1. npm i
-2. Create an .env file to add your mysql database, username, and password. 
-3. Run 'npm start' to enter the application.
+   1. npm i
+   2. Create an .env file to add your mysql database, username, and password. 
+   3. Run 'npm start' to enter the application.
     * User will need to use Insomnia Core or POstman to access the routes
 
 ## Code
